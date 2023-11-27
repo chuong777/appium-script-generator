@@ -95,7 +95,8 @@ export const CONTEXTS = keyMirror({
 
 export const LANGUAGES = {
   JAVA: 'java',
-  NODEJS: 'nodejs'
+  NODEJS: 'nodejs',
+  CSHARP: 'csharp'
 }
 
 export const FRAMEWORK_NAMES = {
